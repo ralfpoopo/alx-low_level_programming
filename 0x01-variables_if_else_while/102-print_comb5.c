@@ -18,7 +18,7 @@ int main(void)
 			e = 48;
 			while (e < 58)
 			{
-				i = 48;	
+				i = 48;
 				while (i < 58)
 				{
 					op1 = (h * 10) + g;
@@ -36,7 +36,7 @@ int main(void)
 						putchar(' ');
 					}
 					i++;
-				}	
+				}
 				e++;
 			}
 			g++;
