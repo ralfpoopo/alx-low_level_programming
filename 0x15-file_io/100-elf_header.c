@@ -84,7 +84,7 @@ void print_type(char *ptr)
  *  * print_osabi - prints osabi
  *   * @ptr: magic.
  *    * Return: no return.
-*/
+ */
 void print_osabi(char *ptr)
 {
 	char osabi = ptr[7];
